@@ -11,12 +11,12 @@ body {
 }
 
 .contenedor {
-    border: 2px solid black;
     width: 920px;
     height: 280px;
     margin: 0 auto;
     position: relative;
     background: linear-gradient(#87D6C7, #FFE2D1);
+    overflow: hidden;
 }
 
 .dino {
